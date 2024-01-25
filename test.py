@@ -7,4 +7,4 @@ def test(a, b):
 
 test(1, 2)
 test(3, 4)
-test(5, 7)
+test(5, 6)
